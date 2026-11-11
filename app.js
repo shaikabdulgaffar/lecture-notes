@@ -21,6 +21,8 @@ const LIBRARY_META = [
     tagline: "Turn cleaned business data into predictions, classifications and clusters" },
   { folder: "scipy", name: "SciPy", icon: "fa-solid fa-flask", color: "#56C9E0",
     tagline: "The statistics engine behind hypothesis tests and business experiments" },
+  { folder: "sql", name: "SQL", icon: "fa-solid fa-database", color: "#336791",
+    tagline: "Store, query and summarise business data in PostgreSQL, from first SELECT to job-ready projects" },
 ];
 
 /* ---- library scripts ------------------------------------------------------
